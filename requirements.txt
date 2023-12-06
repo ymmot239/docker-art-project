@@ -1,0 +1,8 @@
+pygame
+tk
+
+chatterbot
+chatterbot_corpus
+spacy == 2.3.9
+
+pytz
