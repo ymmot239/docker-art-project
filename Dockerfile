@@ -9,10 +9,12 @@ ARG DEBIAN_FRONTEND=noninteractive
 ENV TZ=US/Central
 RUN apt-get install -y python3-tk 
 
-
-WORKDIR /app
-COPY . /app
+COPY requirements.txt /requirements.txt
 
 RUN python3 -m pip install -r requirements.txt
 RUN python3 -m spacy download en
-CMD ["python3", "./art-project-main/main.py"]
+
+COPY /art-project-main /art-project-main
+WORKDIR /art-project-main
+
+CMD ["python3", "main.py"]
