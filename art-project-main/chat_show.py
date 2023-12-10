@@ -1,40 +1,65 @@
 from current_chat import chat
 import pygame, sys
 from pygame import Color
+from pathlib import Path
 
 pygame.init()
 
+
 def get_font(size): # Returns Press-Start-2P in the desired size
     return pygame.font.Font("assets/marlboro.ttf", size)
+
+
+def get_log():
+    data = Path("text_log.txt").read_text()  
+    return str(data)
+
+
+def write_log(text):
+    f = open("text_log.txt","w")
+    f.write(text)
+    f.close()
+
 
 def full_text(max_width, text, font, color=pygame.Color('White')):
     surface = pygame.Surface((max_width,3000),pygame.SRCALPHA)
     surface.fill((0,0,0,0))
     words = [word.split(' ') for word in text.splitlines()]  # 2D array where each row is a list of words.
     space = font.size(' ')[0]  # The width of a space.
-    x, y = 10, 10
+    word_surface = font.render("hi", True, color)
+    word_width, word_height = word_surface.get_size()
+    x, y = 10, word_height + 10
 
-    if len(words) > 100:
-        words = words[len(words)-99:len(words)]
+    to_be_continued = font.render("...",0,color)
     
-    for line in words:
+    for linex in range(len(words)-1,0,-1):
+        line = words[linex]
+        temp = pygame.Surface((max_width, 95),pygame.SRCALPHA)
+        temp.fill((0,0,0,0))
+        tempy = 10
         for word in line:
             word_surface = font.render(word, 0, color)
             word_width, word_height = word_surface.get_size()
             if x + word_width >= max_width:
                 x = 10  # Reset the x.
                 y += word_height  # Start on new row.
-            surface.blit(word_surface, (x, y))
+                tempy += word_height
+            if tempy >= 95:
+                surface.blit(to_be_continued, (20,3000-y+100))
+                break
+            temp.blit(word_surface, (x, tempy))
             x += word_width + space
+        surface.blit(temp, (10,3000-y))
         x = 10  # Reset the x.
         y += word_height  # Start on new row.
+        if y > 3000:
+            break
 
-    word_surface = font.render("hi", True, color)
-    word_width, word_height = word_surface.get_size()
     return_surface = pygame.Surface((max_width, y+10),pygame.SRCALPHA)
     return_surface.fill((0,0,0,0))
     return_surface.blit(surface,(10,10))
     return return_surface
+
 
 def partial_text(screen, max_width, max_height, text, font, scroll):
     moveLogArea = pygame.Rect(100, 110, max_width, max_height)
@@ -71,11 +96,9 @@ def chat_screen(screen):
     
     scroll = 10
     user_input = ""
-    user_log = ""
+    user_log = get_log()
     input_rect = pygame.Rect(100,640, 140, 32) 
     
-    
-
     while True:
         screen.fill(Color("#222222"))
 
@@ -86,11 +109,13 @@ def chat_screen(screen):
         cursor = pygame.mouse.get_pos()
 
         if event.type == pygame.QUIT:
+            write_log(user_log)
             pygame.quit()
             sys.exit()
 
         if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
             if holder_rect.collidepoint(cursor):
+                write_log(user_log)
                 return
 
         if event.type == pygame.KEYDOWN:
@@ -100,17 +125,16 @@ def chat_screen(screen):
             elif event.key == pygame.K_RETURN:
                 user_log += "\n> " + user_input
                 user_log += "\n" + str(chat(user_input))
+                #print(user_log)
                 user_input = ""
-                print(user_log)
 
             else:
                 user_input += event.unicode
        
         if event.type == pygame.MOUSEWHEEL:
-            print(event.y, scroll)
-            if ((scroll - event.y) <= 10) and ((scroll - event.y) > 0):
+            #print(event.y, scroll)
+            if ((scroll - event.y) <= 10) and ((scroll - event.y) >= 0):
                 scroll -= event.y
-                print(scroll)
 
         partial_text(screen, 1240-110, 720-110-100, user_log, get_font(32), scroll)
 
