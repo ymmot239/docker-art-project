@@ -129,6 +129,7 @@ def music_player(screen):
         if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
 
             if holder_rect.collidepoint(cursor):
+                pygame.mixer.music.stop()
                 return
 
             if start_button_rect.collidepoint(cursor) and not playing_music:
