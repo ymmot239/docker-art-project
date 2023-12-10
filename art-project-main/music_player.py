@@ -124,7 +124,8 @@ def music_player(screen):
         screen.blit(stop_button, stop_button_rect)
 
         if event.type == pygame.QUIT:
-            break
+            pygame.quit()
+            sys.exit()
 
         if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
 

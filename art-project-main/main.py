@@ -3,7 +3,7 @@ import time
 import pygame, sys
 from button import Button
 from music_player import music_player
-from current_chat import chat
+from chat_show import chat_screen
 
 pygame.init()
 
@@ -12,10 +12,14 @@ pygame.display.set_caption("Menu")
 
 BG = pygame.image.load("assets/Background.png")
 
+
 def get_font(size): # Returns Press-Start-2P in the desired size
     return pygame.font.Font("assets/marlboro.ttf", size)
 
+
 def Ai():
+    chat_screen(SCREEN)
+    """
     while True:
         PLAY_MOUSE_POS = pygame.mouse.get_pos()
 
@@ -40,7 +44,9 @@ def Ai():
                     return
 
         pygame.display.update()
-    
+    """
+
+
 def music():
     music_player(SCREEN)
     '''
