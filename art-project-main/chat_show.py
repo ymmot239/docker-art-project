@@ -5,6 +5,9 @@ from pathlib import Path
 
 pygame.init()
 
+held_surface = []
+held_text = ""
+
 
 def get_font(size): # Returns Press-Start-2P in the desired size
     return pygame.font.Font("assets/marlboro.ttf", size)
@@ -22,6 +25,11 @@ def write_log(text):
 
 
 def full_text(max_width, text, font, color=pygame.Color('White')):
+    global held_text
+    global held_surface
+    if text == held_text:
+        return held_surface
+    held_text = text
     surface = pygame.Surface((max_width,3000),pygame.SRCALPHA)
     surface.fill((0,0,0,0))
     words = [word.split(' ') for word in text.splitlines()]  # 2D array where each row is a list of words.
@@ -58,6 +66,7 @@ def full_text(max_width, text, font, color=pygame.Color('White')):
     return_surface = pygame.Surface((max_width, y+10),pygame.SRCALPHA)
     return_surface.fill((0,0,0,0))
     return_surface.blit(surface,(10,10))
+    held_surface = return_surface
     return return_surface
 
 
