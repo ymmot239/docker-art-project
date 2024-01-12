@@ -33,7 +33,7 @@ def read_new(file_name):
     return holder
     
 def get_music():
-    mypath = "C:\\Users\\pacma\\Downloads\\art\\docker-art-project\\art-project-main\\music"
+    mypath = "..\\music"
     filelist = next(os.walk(mypath))[1]
     onlyfiles = {}
     for x in filelist:

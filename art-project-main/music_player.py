@@ -3,6 +3,7 @@ import os
 import re
 import math
 import inspect
+import sys
 from os import listdir
 from os.path import isfile, join
 from pygame import Color
@@ -114,6 +115,9 @@ def music_player(screen):
     playing_music = False
     selected_music = None  
 
+    user_list = []
+    file = open("song_counter.txt","a",encoding = "utf-8")
+
     while 1:
         screen.fill(Color("#4f42b5"))
 
@@ -141,6 +145,9 @@ def music_player(screen):
         screen.blit(stop_button, stop_button_rect)
 
         if event.type == pygame.QUIT:
+            for x in user_list:
+                file.write(x+"\n")
+            file.close()
             pygame.quit()
             sys.exit()
 
@@ -148,6 +155,9 @@ def music_player(screen):
 
             if holder_rect.collidepoint(cursor):
                 pygame.mixer.music.stop()
+                for x in user_list:
+                    file.write(x+"\n")
+                file.close()
                 return
 
             if start_button_rect.collidepoint(cursor) and not playing_music:
@@ -170,14 +180,14 @@ def music_player(screen):
             for x in range(len(rects)):
                 item = rects[x]
                 if item.collidepoint(cursor):
-                    file = open("song_counter.txt","a",encoding = "utf-8")
                     key = list(music_list.keys())[x]
                     value = music_list[key]
                     selected_music = value
                     selected = pygame.Surface((item.width, item.height),pygame.SRCALPHA)
                     selected.fill((81,114,161,100))
                     selected_rect = selected.get_rect(topleft=(item.x, item.y))
-                    file.write(selected_music)
+
+                    user_list.append(key)
 
                     pygame.mixer.music.stop()
                     playing_music = False

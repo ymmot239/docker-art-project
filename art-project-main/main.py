@@ -3,14 +3,14 @@ import time
 import pygame, sys
 from button import Button
 from music_player import music_player
-from chat_show import chat_screen
+#from chat_show import chat_screen
 
 pygame.init()
 
 SCREEN = pygame.display.set_mode((1280, 720))
 pygame.display.set_caption("Menu")
 
-BG = pygame.image.load("assets/Background.png")
+BG = pygame.image.load("assets/Background.jpg")
 
 
 def get_font(size): # Returns Press-Start-2P in the desired size
@@ -18,7 +18,8 @@ def get_font(size): # Returns Press-Start-2P in the desired size
 
 
 def Ai():
-    chat_screen(SCREEN)
+    pass
+    #chat_screen(SCREEN)
     """
     while True:
         PLAY_MOUSE_POS = pygame.mouse.get_pos()
@@ -80,7 +81,9 @@ def movie():
     while True:
         MOVIE_MOUSE_POS = pygame.mouse.get_pos()
 
-        SCREEN.fill("black")
+        MOVIE_BACKGROUND = pygame.image.load("assets/Movie_Background.jpg")
+
+        SCREEN.blit(MOVIE_BACKGROUND, (0, 0))
 
         MOVIE_TEXT = get_font(45).render("This is the Movie screen.", True, "White")
         MOVIE_RECT = MOVIE_TEXT.get_rect(center=(640, 260))
@@ -108,7 +111,7 @@ def main_menu():
 
         MENU_MOUSE_POS = pygame.mouse.get_pos()
 
-        MENU_TEXT = get_font(100).render("Welcome to ART", True, "#b68f40")
+        MENU_TEXT = get_font(100).render("Welcome to ART", True, "White")
         MENU_RECT = MENU_TEXT.get_rect(center=(640, 100))
 
         AI_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(350, 400),
@@ -131,6 +134,7 @@ def main_menu():
                 pygame.quit()
                 sys.exit()
             if event.type == pygame.MOUSEBUTTONDOWN:
+
                 if AI_BUTTON.checkForInput(MENU_MOUSE_POS):
                     Ai()
                 if MUSIC_BUTTON.checkForInput(MENU_MOUSE_POS):
@@ -152,4 +156,4 @@ def draw():
 
 
 main_menu()
-#draw()
+#dr

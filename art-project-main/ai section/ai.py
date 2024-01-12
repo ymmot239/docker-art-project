@@ -40,9 +40,9 @@ def get_songs():
         for x in f.readlines(): 
             part = x.split(" : ")
             if part[0] in music_list:
-                music_list[part[0]].append([part[1],int(part[2])])
+                music_list[part[0]].append(part[1][:-1])
             else:
-                music_list[part[0]] = [[part[1],int(part[2])]]
+                music_list[part[0]] = [part[1][:-1]]
     return music_list
 
 
@@ -65,6 +65,6 @@ def new_songs(song_list, genre_weights):
     
 
 if __name__ == "__main__":
-    #print(edit_weights(get_genres(),get_return()))
+    print(edit_weights(get_genres(),get_return()))
     #print(get_songs())
     print(new_songs(get_songs(),edit_weights(get_genres(),get_return())))
