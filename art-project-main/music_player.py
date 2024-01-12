@@ -11,6 +11,23 @@ pygame.init()
 
 pygame.mixer.init()
 
+def save_exit(input_change):
+    f = open("demofile.txt", "w+")
+    # open and read the file after the overwriting:
+    def yes_or_no():
+        answer = input("Please enter yes or no ")
+        while answer.lower() != 'yes' and answer.lower != 'no':
+            answer = input("Please enter yes or no ")
+        return answer.lower()
+
+    yes_or_no()
+    f.write("Woops! I have deleted the content!")
+    f.close()
+
+
+
+
+
 def get_font(size): # Returns Press-Start-2P in the desired size
     return pygame.font.Font("assets/marlboro.ttf", size)
 
@@ -98,7 +115,7 @@ def music_player(screen):
     selected_music = None  
 
     while 1:
-        screen.fill(Color("#222222"))
+        screen.fill(Color("#4f42b5"))
 
         MUSIC_TEXT = get_font(45).render("This is the MUSIC screen.", True, "White")
         MUSIC_RECT = MUSIC_TEXT.get_rect(center=(640, 50))
@@ -153,12 +170,14 @@ def music_player(screen):
             for x in range(len(rects)):
                 item = rects[x]
                 if item.collidepoint(cursor):
+                    file = open("song_counter.txt","a",encoding = "utf-8")
                     key = list(music_list.keys())[x]
                     value = music_list[key]
                     selected_music = value
                     selected = pygame.Surface((item.width, item.height),pygame.SRCALPHA)
                     selected.fill((81,114,161,100))
                     selected_rect = selected.get_rect(topleft=(item.x, item.y))
+                    file.write(selected_music)
 
                     pygame.mixer.music.stop()
                     playing_music = False
