@@ -3,7 +3,6 @@ import os
 import re
 import math
 import inspect
-import sys
 from os import listdir
 from os.path import isfile, join
 from pygame import Color
@@ -12,31 +11,26 @@ pygame.init()
 
 pygame.mixer.init()
 
-def save_exit(input_change):
-    f = open("demofile.txt", "w+")
-    # open and read the file after the overwriting:
-    def yes_or_no():
-        answer = input("Please enter yes or no ")
-        while answer.lower() != 'yes' and answer.lower != 'no':
-            answer = input("Please enter yes or no ")
-        return answer.lower()
-
-    yes_or_no()
-    f.write("Woops! I have deleted the content!")
-    f.close()
-
-
-
-
-
 def get_font(size): # Returns Press-Start-2P in the desired size
     return pygame.font.Font("assets/marlboro.ttf", size)
 
 
 def get_music():
-    mypath = "./music"
-    filelist = next(os.walk(mypath))[1]
+    #mypath = "./music"
+    #filelist = next(os.walk(mypath))[1]
+    music_list = []
+    with open("ai_section/output.txt","r", encoding="utf-8") as f:
+        for x in f.readlines():
+            music_list.append(x)
     onlyfiles = {}
+    music_dictionary = {}
+    with open("ai_section/song_to_path.txt","r", encoding="utf-8") as f:
+        for x in f.readlines():
+            music_path = x.split(" : ../")
+            music_dictionary[music_path[0]] = music_path[1][:-1]
+    for x in music_list:
+        onlyfiles[x] = music_dictionary[x[:-1]]
+    '''
     for x in filelist:
         newpath = mypath + "/" + x
         #onlyfiles += [newpath + "/" + f for f in listdir(newpath) if isfile(join(newpath, f))]
@@ -46,6 +40,7 @@ def get_music():
                  if len(f_edit) > 30:
                      f_edit = f_edit[:30] + "~"
                  onlyfiles[f_edit] = newpath+"/"+f
+    '''
     return onlyfiles
 
 
@@ -115,11 +110,8 @@ def music_player(screen):
     playing_music = False
     selected_music = None  
 
-    user_list = []
-    file = open("song_counter.txt","a",encoding = "utf-8")
-
     while 1:
-        screen.fill(Color("#4f42b5"))
+        screen.fill(Color("#222222"))
 
         MUSIC_TEXT = get_font(45).render("This is the MUSIC screen.", True, "White")
         MUSIC_RECT = MUSIC_TEXT.get_rect(center=(640, 50))
@@ -145,9 +137,6 @@ def music_player(screen):
         screen.blit(stop_button, stop_button_rect)
 
         if event.type == pygame.QUIT:
-            for x in user_list:
-                file.write(x+"\n")
-            file.close()
             pygame.quit()
             sys.exit()
 
@@ -155,9 +144,6 @@ def music_player(screen):
 
             if holder_rect.collidepoint(cursor):
                 pygame.mixer.music.stop()
-                for x in user_list:
-                    file.write(x+"\n")
-                file.close()
                 return
 
             if start_button_rect.collidepoint(cursor) and not playing_music:
@@ -186,8 +172,6 @@ def music_player(screen):
                     selected = pygame.Surface((item.width, item.height),pygame.SRCALPHA)
                     selected.fill((81,114,161,100))
                     selected_rect = selected.get_rect(topleft=(item.x, item.y))
-
-                    user_list.append(key)
 
                     pygame.mixer.music.stop()
                     playing_music = False
