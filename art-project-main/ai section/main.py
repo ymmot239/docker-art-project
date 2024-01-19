@@ -1,6 +1,6 @@
 from os import listdir
 import os
-import win32com.client
+#import win32com.client
 from os.path import isfile, join
 import re, random
 
@@ -33,7 +33,7 @@ def read_new(file_name):
     return holder
     
 def get_music():
-    mypath = "..\\music"
+    mypath = "../music"
     filelist = next(os.walk(mypath))[1]
     onlyfiles = {}
     for x in filelist:
@@ -44,7 +44,7 @@ def get_music():
                  f_edit = re.sub(r'[^a-zA-Z\d\s:]',"",f[:-4]).strip()
                  if len(f_edit) > 30:
                      f_edit = f_edit[:30] + "~"
-                 onlyfiles[f_edit] = [newpath+"/"+f,"Classical Guitar"]
+                 onlyfiles[f_edit] = [newpath+"/"+f,x]
     return onlyfiles
 
 def recommend_number():
@@ -55,7 +55,7 @@ def export_changes():
 
 
 if __name__ == "__main__":
-    read_new("test.txt")
+   # read_new("test.txt")
     List = get_music()
     file = open("genre_to_song.txt", "w+", encoding="utf-8")
     for key in List:

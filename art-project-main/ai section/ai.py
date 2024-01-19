@@ -1,6 +1,6 @@
 from os import listdir
 import os
-import win32com.client
+#import win32com.client
 from os.path import isfile, join
 import math
 import random
@@ -67,4 +67,9 @@ def new_songs(song_list, genre_weights):
 if __name__ == "__main__":
     print(edit_weights(get_genres(),get_return()))
     #print(get_songs())
-    print(new_songs(get_songs(),edit_weights(get_genres(),get_return())))
+    holder =new_songs(get_songs(),edit_weights(get_genres(),get_return()))
+    print(len(holder))
+    print(holder)
+    with open("output.txt","w") as f:
+        for x in holder:
+            f.write(x + '\n')

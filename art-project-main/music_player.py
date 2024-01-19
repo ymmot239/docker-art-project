@@ -19,12 +19,12 @@ def get_music():
     #mypath = "./music"
     #filelist = next(os.walk(mypath))[1]
     music_list = []
-    with open("ai_section/output.txt","r", encoding="utf-8") as f:
+    with open("ai section/output.txt","r", encoding="utf-8") as f:
         for x in f.readlines():
             music_list.append(x)
     onlyfiles = {}
     music_dictionary = {}
-    with open("ai_section/song_to_path.txt","r", encoding="utf-8") as f:
+    with open("ai section/song_to_path.txt","r", encoding="utf-8") as f:
         for x in f.readlines():
             music_path = x.split(" : ../")
             music_dictionary[music_path[0]] = music_path[1][:-1]

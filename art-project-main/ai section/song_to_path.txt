@@ -1,48 +1,454 @@
-12 Piezas caracteristicas Op 9~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/12 Piezas caracteristicas, Op. 92_ No. 12, Torre Bermeja (Arranged by John Williams for Guitar).mp3
-5 Bagatelles No 1 Allegro : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/5 Bagatelles_ No. 1, Allegro.mp3
-5 Asturias Leyenda : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/5. Asturias (Leyenda).mp3
-Adelita : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Adelita.mp3
-Air on the G String : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Air on the G String.mp3
-Allegro : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Allegro.mp3
-Asturias : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Asturias.mp3
-Bamako  Chamber Music : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Bamako - Chamber Music.mp3
-Capricho rabe : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Capricho árabe.mp3
-Cavatina : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Cavatina.mp3
-Cello Suite No 1 in G Major BW~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Cello Suite No. 1 in G Major, BWV 1007_ I. Prélude (Transcribed for Guitar by John Williams).mp3
-Concierto de Aranjuez I Allegr~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Concierto de Aranjuez_ I. Allegro con spirito.mp3
-Concierto de Aranjuez II Adagi~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Concierto de Aranjuez_ II. Adagio.mp3
-Dedicatoria : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Dedicatoria.mp3
-Del Pago From Ronroco : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Del Pago (From _Ronroco_).mp3
-Etude in E Minor : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Etude in E Minor.mp3
-Fantaisie : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Fantaisie.mp3
-Fantasa para un Gentilhombre I~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Fantasía para un Gentilhombre_ IIa. Españoleta.mp3
-Fantasa para un gentilhombre V~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Fantasía para un gentilhombre_ VI. Canario.mp3
-Farruca : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Farruca.mp3
-Granada : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Granada.mp3
-I Allegro giusto : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/I. Allegro giusto.mp3
-La catedral : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/La catedral.mp3
-La promesse : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/La promesse.mp3
-Lute Suite No 2 in C Minor BWV~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Lute Suite No. 2 in C Minor, BWV 997_ V. Double.mp3
-Lgrima : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Lágrima.mp3
-Mystery of Love : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Mystery of Love.mp3
-New York  Mad Rush : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/New York - Mad Rush.mp3
-O Presidente : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/O Presidente.mp3
-Prelude No 1 in E Minor Andant~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Prelude No. 1 in E Minor (Andantino expressivo).mp3
-Pjaros From My Blueberry Night~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Pájaros (From _My Blueberry Nights_).mp3
-Recuerdos de la Alhambra : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Recuerdos de la Alhambra.mp3
-Romance Arr J Williams for Gui~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Romance (Arr. J. Williams for Guitar & Orchestra).mp3
-Romanza : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Romanza.mp3
-Ronsard De Platero y Yo : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Ronsard (De Platero y Yo).mp3
-Sonate en la majeur K 208 Adag~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Sonate en la majeur, K. 208_ Adagio e cantabile.mp3
-Sonate en r mineur K 1 Allegro : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Sonate en ré mineur, K. 1_ Allegro.mp3
-Sonidos de aquel dia : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Sonidos de aquel dia.mp3
-Spanish Romance : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Spanish Romance.mp3
-Suite Castellana Suite Castell~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Suite Castellana_ Suite Castellana I. Fandanguillo.mp3
-Suite espagnole Op 47 III Sevi~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Suite espagnole, Op. 47_ III. Sevilla.mp3
-Suite Espaola No 1 Op 47 No 5 ~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Suite Española No. 1, Op. 47_ No. 5, Asturias (Leyenda) [Arranged by John Williams for Guitar].mp3
-Suite espaola Op 47 No 5 Astur~ : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Suite española, Op. 47_ No. 5, Asturias (Leyenda).mp3
-Un Dia de Noviembre : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Un Dia de Noviembre.mp3
-V Asturias : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/V. Asturias.mp3
-Walls 2 : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Walls 2.mp3
-mes dantan : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Classical Guitar/Âmes d'antan.mp3
-Docchi Docchi Song Original : C:\Users\pacma\Downloads\art\docker-art-project\art-project-main\music/Vtuber/百鬼あやめどーっちどっちの歌オリジナル版 Docchi Docchi Song Original.mp3
+ : ../music/J-Pop/妄想サマー.mp3
+sleep sleep feat SATOMOKA : ../music/J-Pop/sleep sleep feat SATOMOKA.mp3
+melt bitter : ../music/J-Pop/melt bitter.mp3
+pass you by : ../music/J-Pop/pass you by.mp3
+KaniDo  Luck : ../music/J-Pop/Kani☆Do - Luck!.mp3
+Remix : ../music/J-Pop/ちゅるりらサマフィッシュ〜ラブリーサマーちゃんRemix〜.mp3
+Shinzo wo Sasageyo : ../music/J-Pop/Shinzo wo Sasageyo!.mp3
+REALIZE : ../music/J-Pop/REALIZE.mp3
+confusion : ../music/J-Pop/confusion.mp3
+Wind : ../music/J-Pop/Wind.mp3
+JOJO SONO CHINO SADAME : ../music/J-Pop/JOJO SONO CHINO SADAME.mp3
+HIGHSCHOOL OF THE DEAD : ../music/J-Pop/HIGHSCHOOL OF THE DEAD.mp3
+Manjushage : ../music/J-Pop/Manjushage.mp3
+ParadisusParadoxum : ../music/J-Pop/Paradisus-Paradoxum.mp3
+yours : ../music/J-Pop/yours.mp3
+Flow : ../music/J-Pop/Flow.mp3
+The time : ../music/J-Pop/The time.mp3
+asphyxia : ../music/J-Pop/asphyxia.mp3
+Docchi Docchi Song Original : ../music/Vtuber/百鬼あやめどーっちどっちの歌オリジナル版 Docchi Docchi Song Original.mp3
+STYX HELIX : ../music/J-Pop/STYX HELIX.mp3
+BLOODY STREAM : ../music/J-Pop/BLOODY STREAM.mp3
+Fuwa Fuwa Time : ../music/J-Pop/Fuwa Fuwa Time.mp3
+Say So  Japanese Version : ../music/J-Pop/Say So - Japanese Version.mp3
+WANING MOON : ../music/J-Pop/WANING MOON.mp3
+veil : ../music/J-Pop/veil.mp3
+Silly : ../music/J-Pop/Silly.mp3
+Onnanoko wa Nakanai : ../music/J-Pop/Onnanoko wa Nakanai.mp3
+ROUGH DIAMONDS : ../music/J-Pop/ROUGH DIAMONDS.mp3
+summertime : ../music/J-Pop/summertime.mp3
+Oddloop : ../music/J-Pop/Oddloop.mp3
+Believe in you : ../music/J-Pop/Believe in you.mp3
+ALONES : ../music/J-Pop/ALONES.mp3
+Nisemononoutage : ../music/J-Pop/Nisemononoutage.mp3
+Hai Domo : ../music/J-Pop/Hai Domo.mp3
+sweet seep sleep : ../music/J-Pop/sweet seep sleep.mp3
+osmanthus : ../music/J-Pop/osmanthus.mp3
+KING : ../music/J-Pop/KING.mp3
+Jungle P 326372 OP : ../music/J-Pop/Jungle P (第326-372話 OP).mp3
+Kyouran Hey Kids : ../music/J-Pop/Kyouran Hey Kids!!.mp3
+ver : ../music/J-Pop/青い栞(アニメサイズver.).mp3
+Life : ../music/J-Pop/Life.mp3
+Only Wonder : ../music/J-Pop/Only Wonder.mp3
+STAND PROUD : ../music/J-Pop/STAND PROUD.mp3
+Memento : ../music/J-Pop/Memento.mp3
+THE HERO : ../music/J-Pop/THE HERO !! 〜怒れる拳に火をつけろ〜.mp3
+Prologue : ../music/J-Pop/Prologue.mp3
+Meimetsusuru : ../music/J-Pop/Meimetsusuru.mp3
+Talk Talk : ../music/J-Pop/Talk! Talk!.mp3
+Omae Wa Mou : ../music/J-Pop/Omae Wa Mou.mp3
+Hikare Inochi : ../music/J-Pop/Hikare Inochi.mp3
+Love Your Love : ../music/J-Pop/Love Your Love.mp3
+Zenzenzense  movie ver : ../music/J-Pop/Zenzenzense - movie ver..mp3
+Free ThrowAlbum mix : ../music/J-Pop/Free Throw(Album mix).mp3
+Black Rover : ../music/J-Pop/Black Rover.mp3
+Lush Life : ../music/J-Pop/Lush Life!.mp3
+DADDY  DADDY  DO : ../music/J-Pop/DADDY ! DADDY ! DO !.mp3
+Haru ni yuraredo kimi omou : ../music/J-Pop/Haru ni yuraredo kimi omou.mp3
+I My Me Myself : ../music/J-Pop/I My Me Myself.mp3
+Love me do : ../music/J-Pop/Love me do.mp3
+Love Supreme : ../music/J-Pop/Love Supreme!.mp3
+Discommunication Alien : ../music/J-Pop/Discommunication Alien.mp3
+Margaritaville : ../music/Country/Margaritaville.mp3
+My Wish : ../music/Country/My Wish.mp3
+Aint Nothing Bout You : ../music/Country/Ain't Nothing 'Bout You.mp3
+Sweet Annie : ../music/Country/Sweet Annie.mp3
+Live Like You Were Dying : ../music/Country/Live Like You Were Dying.mp3
+Hard To Love : ../music/Country/Hard To Love.mp3
+I Wont Let Go : ../music/Country/I Won't Let Go.mp3
+Youre Gonna Miss This : ../music/Country/You're Gonna Miss This.mp3
+She Thinks My Tractors Sexy : ../music/Country/She Thinks My Tractor's Sexy.mp3
+Only You Can Love Me This Way : ../music/Country/Only You Can Love Me This Way.mp3
+Ten Rounds with Jose Cuervo  R~ : ../music/Country/Ten Rounds with Jose Cuervo - Recall Mix.mp3
+A Woman Like You : ../music/Country/A Woman Like You.mp3
+Colder Weather : ../music/Country/Colder Weather.mp3
+I Like It I Love It : ../music/Country/I Like It, I Love It.mp3
+Take Me Home Country Roads : ../music/Country/Take Me Home, Country Roads.mp3
+Just To See You Smile : ../music/Country/Just To See You Smile.mp3
+Austin : ../music/Country/Austin.mp3
+Save a Horse Ride a Cowboy : ../music/Country/Save a Horse (Ride a Cowboy).mp3
+There Goes My Life : ../music/Country/There Goes My Life.mp3
+Chattahoochee : ../music/Country/Chattahoochee.mp3
+Where Were You When the World ~ : ../music/Country/Where Were You (When the World Stopped Turning).mp3
+My Maria : ../music/Country/My Maria.mp3
+Humble And Kind : ../music/Country/Humble And Kind.mp3
+Shouldve Been A Cowboy : ../music/Country/Should've Been A Cowboy.mp3
+Mannish Boy : ../music/Blues/Mannish Boy.mp3
+Born Under A Bad Sign  Mono Mi~ : ../music/Blues/Born Under A Bad Sign - Mono Mix.mp3
+Aint No Love In The Heart Of T~ : ../music/Blues/Ain't No Love In The Heart Of The City - Single Version.mp3
+Hound Dog : ../music/Blues/Hound Dog.mp3
+Alberts Shuffle : ../music/Blues/Albert's Shuffle.mp3
+Junkers Blues : ../music/Blues/Junker's Blues.mp3
+Two Bugs and a Roach : ../music/Blues/Two Bugs and a Roach.mp3
+Now That Im Down : ../music/Blues/Now That I'm Down.mp3
+Aint Got Nobody : ../music/Blues/Ain't Got Nobody.mp3
+All Your Love : ../music/Blues/All Your Love.mp3
+Part Time Love : ../music/Blues/Part Time Love.mp3
+The Thrill Is Gone : ../music/Blues/The Thrill Is Gone.mp3
+Leaving Trunk : ../music/Blues/Leaving Trunk.mp3
+Stone Crazy : ../music/Blues/Stone Crazy.mp3
+Little Angel Child : ../music/Blues/Little Angel Child.mp3
+I Cant Quit You Baby : ../music/Blues/I Can't Quit You Baby.mp3
+Mean Old World : ../music/Blues/Mean Old World.mp3
+TBone Shuffle : ../music/Blues/T-Bone Shuffle.mp3
+Im A Man : ../music/Blues/I'm A Man.mp3
+Red House : ../music/Blues/Red House.mp3
+Boom Boom : ../music/Blues/Boom Boom.mp3
+The Sky Is Crying : ../music/Blues/The Sky Is Crying.mp3
+Cold Cold Feeling : ../music/Blues/Cold, Cold Feeling.mp3
+My Babe : ../music/Blues/My Babe.mp3
+Crossroads  Live : ../music/Blues/Crossroads - Live.mp3
+Bad News Is Coming : ../music/Blues/Bad News Is Coming.mp3
+Black Magic Woman : ../music/Blues/Black Magic Woman.mp3
+Give Me Back My Wig : ../music/Blues/Give Me Back My Wig.mp3
+To Know You Is To Love You : ../music/Blues/To Know You Is To Love You.mp3
+Be Careful With a Fool : ../music/Blues/Be Careful With a Fool.mp3
+Pride and Joy : ../music/Blues/Pride and Joy.mp3
+Big Chief  Remastered : ../music/Blues/Big Chief - Remastered.mp3
+Should I Wait : ../music/Blues/Should I Wait.mp3
+Damn Right Ive Got the Blues : ../music/Blues/Damn Right, I've Got the Blues.mp3
+Scratch My Back : ../music/Blues/Scratch My Back.mp3
+Feels Like Rain feat Bonnie Ra~ : ../music/Blues/Feels Like Rain (feat. Bonnie Raitt).mp3
+Stumble : ../music/Blues/Stumble.mp3
+Sadie : ../music/Blues/Sadie.mp3
+Id Rather Go Blind : ../music/Blues/I'd Rather Go Blind.mp3
+Little Red Rooster : ../music/Blues/Little Red Rooster.mp3
+Im Tore Down : ../music/Blues/I'm Tore Down.mp3
+Im A Woman  Remastered : ../music/Blues/I'm A Woman - Remastered.mp3
+All Your Love  Stereo : ../music/Blues/All Your Love - Stereo.mp3
+You Dont Want Me : ../music/Blues/You Don't Want Me.mp3
+Walking By Myself : ../music/Blues/Walking By Myself.mp3
+Crosscut Saw  Mono Mix : ../music/Blues/Crosscut Saw - Mono Mix.mp3
+Do Right Woman Do Right Man : ../music/Blues/Do Right Woman, Do Right Man.mp3
+Why I Sing The Blues : ../music/Blues/Why I Sing The Blues.mp3
+Reconsider Baby : ../music/Blues/Reconsider Baby.mp3
+Boogie Chillen : ../music/Blues/Boogie Chillen.mp3
+Working Man : ../music/Blues/Working Man.mp3
+Call It Stormy Monday : ../music/Blues/Call It Stormy Monday.mp3
+Im A King Bee : ../music/Blues/I'm A King Bee.mp3
+Got My Mojo Working : ../music/Blues/Got My Mojo Working.mp3
+Mean Mistreater : ../music/Blues/Mean Mistreater.mp3
+Wang Dang Doodle : ../music/Blues/Wang Dang Doodle.mp3
+Shes A Sweet One : ../music/Blues/She's A Sweet One.mp3
+Let The Good Times Roll : ../music/Blues/Let The Good Times Roll.mp3
+Going Down : ../music/Blues/Going Down.mp3
+Trouble No More : ../music/Blues/Trouble No More.mp3
+Love Me Like a Man  2008 Remas~ : ../music/Blues/Love Me Like a Man - 2008 Remaster.mp3
+Texas Flood : ../music/Blues/Texas Flood.mp3
+Short Dressed Woman : ../music/Blues/Short Dressed Woman.mp3
+Smokestack Lightnin : ../music/Blues/Smokestack Lightnin'.mp3
+Juke : ../music/Blues/Juke.mp3
+Chains And Things : ../music/Blues/Chains And Things.mp3
+Rollin Stone : ../music/Blues/Rollin' Stone.mp3
+Double Trouble : ../music/Blues/Double Trouble.mp3
+Love Struck Baby : ../music/Blues/Love Struck Baby.mp3
+Murmaider : ../music/Metal/Murmaider.mp3
+Face Fisted : ../music/Metal/Face Fisted.mp3
+Awaken : ../music/Metal/Awaken.mp3
+Hysteria : ../music/Rock/Hysteria.mp3
+Black Betty : ../music/Rock/Black Betty.mp3
+Seven Nation Army : ../music/Rock/Seven Nation Army.mp3
+Sweet Home Alabama : ../music/Rock/Sweet Home Alabama.mp3
+Were Not Gonna Take It : ../music/Rock/We're Not Gonna Take It.mp3
+Free Bird : ../music/Rock/Free Bird.mp3
+Back In Black : ../music/Rock/Back In Black.mp3
+Hotel California  2013 Remaste~ : ../music/Rock/Hotel California - 2013 Remaster.mp3
+Highway to Hell : ../music/Rock/Highway to Hell.mp3
+Bad To The Bone : ../music/Rock/Bad To The Bone.mp3
+Hooked On A Feeling : ../music/Rock/Hooked On A Feeling.mp3
+Thunderstruck : ../music/Rock/Thunderstruck.mp3
+Sweet Child O Mine : ../music/Rock/Sweet Child O' Mine.mp3
+Dont Stop Believin 2022 Remast~ : ../music/Rock/Don't Stop Believin' (2022 Remaster).mp3
+You Give Love A Bad Name : ../music/Rock/You Give Love A Bad Name.mp3
+Eye of the Tiger : ../music/Rock/Eye of the Tiger.mp3
+Jump  2015 Remaster : ../music/Rock/Jump - 2015 Remaster.mp3
+Livin On A Prayer : ../music/Rock/Livin' On A Prayer.mp3
+Ghostbusters : ../music/Movie/Ghostbusters.mp3
+Perry the Platypus Theme : ../music/Movie/Perry the Platypus Theme.mp3
+Soundtrack Version : ../music/Movie/Soundtrack Version.mp3
+Kung Fu Fighting : ../music/Movie/Kung Fu Fighting.mp3
+Bad  2012 Remaster : ../music/Pop/Bad - 2012 Remaster.mp3
+Im Gonna Be 500 Miles : ../music/Pop/I'm Gonna Be (500 Miles).mp3
+We Built This City : ../music/Pop/We Built This City.mp3
+Wake Me Up Before You GoGo : ../music/Pop/Wake Me Up Before You Go-Go.mp3
+Mambo No 5 a Little Bit of : ../music/Pop/Mambo No. 5 (a Little Bit of...).mp3
+We Didnt Start the Fire : ../music/Pop/We Didn't Start the Fire.mp3
+Drive : ../music/Pop/Drive.mp3
+Funkytown  Single Version : ../music/Pop/Funkytown - Single Version.mp3
+The Power Of Love : ../music/Pop/The Power Of Love.mp3
+Never Gonna Give You Up : ../music/Pop/Never Gonna Give You Up.mp3
+Karma Chameleon  Remastered 20~ : ../music/Pop/Karma Chameleon - Remastered 2002.mp3
+Sweet Dreams Are Made of This ~ : ../music/Pop/Sweet Dreams (Are Made of This) - Remastered.mp3
+U Cant Touch This : ../music/Pop/U Can't Touch This.mp3
+Mr Blue Sky : ../music/Pop/Mr. Blue Sky.mp3
+Stayin Alive : ../music/Pop/Stayin' Alive.mp3
+Who Let The Dogs Out : ../music/Pop/Who Let The Dogs Out.mp3
+Despicable Me : ../music/Pop/Despicable Me.mp3
+Im Still Standing : ../music/Pop/I'm Still Standing.mp3
+Africa : ../music/Pop/Africa.mp3
+Beat It : ../music/Pop/Beat It.mp3
+The Final Countdown : ../music/Pop/The Final Countdown.mp3
+YMCA  Original Version 1978 : ../music/Pop/YMCA - Original Version 1978.mp3
+Escape The Pina Colada Song : ../music/Pop/Escape (The Pina Colada Song).mp3
+Take on Me : ../music/Pop/Take on Me.mp3
+Blue Da Ba Dee  Gabry Ponte Ic~ : ../music/Pop/Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio.mp3
+Bad Romance : ../music/Pop/Bad Romance.mp3
+Thriller : ../music/Pop/Thriller.mp3
+Walking On Sunshine : ../music/Pop/Walking On Sunshine.mp3
+Life is a Highway : ../music/Pop/Life is a Highway.mp3
+All Star : ../music/Pop/All Star.mp3
+Smooth Criminal  2012 Remaster : ../music/Pop/Smooth Criminal - 2012 Remaster.mp3
+El Primer Tonto : ../music/Mexican Music/El Primer Tonto.mp3
+Mujeres Divinas : ../music/Mexican Music/Mujeres Divinas.mp3
+Payaso de rodeo : ../music/Mexican Music/Payaso de rodeo.mp3
+141 : ../music/Mexican Music/141.mp3
+Corazon Espinado feat Mana : ../music/Mexican Music/Corazon Espinado (feat. Mana).mp3
+Ella Me Levanto : ../music/Reggaeton/Ella Me Levanto.mp3
+Tragos Amargos : ../music/Mexican Music/Tragos Amargos.mp3
+Tao Tao : ../music/Mexican Music/Tao, Tao.mp3
+La Cobra : ../music/Mexican Music/La Cobra.mp3
+El Camalen : ../music/Mexican Music/El Camaleón.mp3
+Mi Piquito De Oro : ../music/Mexican Music/Mi Piquito De Oro.mp3
+Me llamo Raquel : ../music/Mexican Music/Me llamo Raquel.mp3
+Sentimientos De Cartn : ../music/Mexican Music/Sentimientos De Cartón.mp3
+Bilame : ../music/Mexican Music/Báilame.mp3
+La Puerta Negra : ../music/Mexican Music/La Puerta Negra.mp3
+Estos Celos : ../music/Mexican Music/Estos Celos.mp3
+La Negra Catalina : ../music/Mexican Music/La Negra Catalina.mp3
+Alma de Guitarra : ../music/Mexican Music/Alma de Guitarra.mp3
+Hermoso Cario : ../music/Mexican Music/Hermoso Cariño.mp3
+Cabrn y Vago  En Vivo : ../music/Mexican Music/Cabrón y Vago - En Vivo.mp3
+Que Calor : ../music/Mexican Music/Que Calor.mp3
+Ta Encendio : ../music/Mexican Music/Ta Encendio.mp3
+Adis Amor : ../music/Mexican Music/Adiós Amor.mp3
+El Tao Tao : ../music/Mexican Music/El Tao Tao.mp3
+La Resaka : ../music/Mexican Music/La Resaka.mp3
+La Razon : ../music/Mexican Music/La Razon.mp3
+Aunque Ahora Ests Con l : ../music/Mexican Music/Aunque Ahora Estés Con Él.mp3
+Bambolo : ../music/Mexican Music/Bamboléo.mp3
+El Diario De Un Borracho : ../music/Mexican Music/El Diario De Un Borracho.mp3
+La Yerba Se Mova : ../music/Mexican Music/La Yerba Se Movía.mp3
+Taboo : ../music/Reggaeton/Taboo.mp3
+El Baile del Beeper  Versin Me~ : ../music/Mexican Music/El Baile del Beeper - Versión Merengue.mp3
+El Tucanazo : ../music/Mexican Music/El Tucanazo.mp3
+Cumbia Del Sol : ../music/Mexican Music/Cumbia Del Sol.mp3
+Cumbia Sampuesana : ../music/Mexican Music/Cumbia Sampuesana.mp3
+Aqui Esperandote : ../music/Mexican Music/Aqui Esperandote.mp3
+Por el Resto de Tu Vida : ../music/Mexican Music/Por el Resto de Tu Vida.mp3
+La Gata Bajo la Lluvia : ../music/Mexican Music/La Gata Bajo la Lluvia.mp3
+La del Moo Colorado : ../music/Mexican Music/La del Moño Colorado.mp3
+Gasolina : ../music/Reggaeton/Gasolina.mp3
+Que No Quede Huella : ../music/Mexican Music/Que No Quede Huella.mp3
+Llorar : ../music/Mexican Music/Llorar.mp3
+Fiesta Cumbiambera : ../music/Mexican Music/Fiesta Cumbiambera.mp3
+Cumbia Con La Luna : ../music/Mexican Music/Cumbia Con La Luna.mp3
+Zumba : ../music/Reggaeton/Zumba.mp3
+No Rompas Mi Corazon : ../music/Mexican Music/No Rompas Mi Corazon.mp3
+El Coco No : ../music/Mexican Music/El Coco No.mp3
+El Noa Noa : ../music/Mexican Music/El Noa Noa.mp3
+Sangre De Gallo : ../music/Mexican Music/Sangre De Gallo.mp3
+Suavecito Suavecito : ../music/Mexican Music/Suavecito Suavecito.mp3
+El Seor de la Noche : ../music/Reggaeton/El Señor de la Noche.mp3
+Tiene Espinas El Rosal : ../music/Mexican Music/Tiene Espinas El Rosal.mp3
+El Paso Del Canguro : ../music/Mexican Music/El Paso Del Canguro.mp3
+Intntalo feat Amrica Sierra  E~ : ../music/Mexican Music/Inténtalo (feat. América Sierra & El Bebeto).mp3
+El Colesterol : ../music/Mexican Music/El Colesterol.mp3
+Cumbia Caliente : ../music/Mexican Music/Cumbia Caliente.mp3
+El Baile del Beeper  Version M~ : ../music/Mexican Music/El Baile del Beeper - Version Mexico.mp3
+DUELE EL CORAZON feat Wisin : ../music/Mexican Music/DUELE EL CORAZON (feat. Wisin).mp3
+Un Puo De Tierra : ../music/Mexican Music/Un Puño De Tierra.mp3
+Bailando  Spanish Version : ../music/Mexican Music/Bailando - Spanish Version.mp3
+Dime Si Te Vas Con l : ../music/Reggaeton/Dime Si Te Vas Con Él.mp3
+El Mensajero : ../music/Mexican Music/El Mensajero.mp3
+Cumbia De La Cobra : ../music/Mexican Music/Cumbia De La Cobra.mp3
+Juana La Cubana : ../music/Mexican Music/Juana La Cubana.mp3
+Adoro : ../music/Mexican Music/Adoro.mp3
+Los Dos Amigos : ../music/Mexican Music/Los Dos Amigos.mp3
+El Mayor : ../music/Mexican Music/El Mayor.mp3
+La Camisa Negra : ../music/Mexican Music/La Camisa Negra.mp3
+Piensa En M : ../music/Mexican Music/Piensa En Mí.mp3
+La Gera Salome : ../music/Mexican Music/La Güera Salome.mp3
+Cumbia Cianaguera : ../music/Mexican Music/Cumbia Cianaguera.mp3
+Un Milln de Primaveras : ../music/Mexican Music/Un Millón de Primaveras.mp3
+Frijolero : ../music/Mexican Music/Frijolero.mp3
+Cumbia Morena : ../music/Mexican Music/Cumbia Morena.mp3
+Mil Horas : ../music/Mexican Music/Mil Horas.mp3
+El Cocodrilo : ../music/Mexican Music/El Cocodrilo.mp3
+Bebe Dame : ../music/Mexican Music/Bebe Dame.mp3
+La Gallina : ../music/Mexican Music/La Gallina.mp3
+Suavemente : ../music/Mexican Music/Suavemente.mp3
+El baile del gaviln : ../music/Mexican Music/El baile del gavilán.mp3
+La Chona : ../music/Mexican Music/La Chona.mp3
+La Inconforme : ../music/Mexican Music/La Inconforme.mp3
+Mueve Tu Cintura : ../music/Mexican Music/Mueve Tu Cintura.mp3
+La Mesa Del Rincn : ../music/Mexican Music/La Mesa Del Rincón.mp3
+El Botecito : ../music/Mexican Music/El Botecito.mp3
+Felicidad : ../music/Mexican Music/Felicidad.mp3
+Mi Chica Difcil : ../music/Mexican Music/Mi Chica Difícil.mp3
+El Cascabel : ../music/Mexican Music/El Cascabel.mp3
+A Dios Le Pido : ../music/Mexican Music/A Dios Le Pido.mp3
+Flor De Capomo : ../music/Mexican Music/Flor De Capomo.mp3
+Ella Baila Sola : ../music/Mexican Music/Ella Baila Sola.mp3
+La Malaguea : ../music/Mexican Music/La Malagueña.mp3
+Popurr Cumbia Navidea : ../music/Mexican Music/Popurrí Cumbia Navideña.mp3
+Agita De Meln : ../music/Mexican Music/Agüita De Melón.mp3
+Candita : ../music/Mexican Music/Candita.mp3
+Cien aos : ../music/Mexican Music/Cien años.mp3
+Yo Soy El Aventurero : ../music/Mexican Music/Yo Soy El Aventurero.mp3
+Passion Whine : ../music/Reggaeton/Passion Whine.mp3
+Rakata : ../music/Reggaeton/Rakata.mp3
+AtrveteTeTe : ../music/Reggaeton/Atrévete-Te-Te.mp3
+Ven Bailalo  Reggaeton Mix : ../music/Reggaeton/Ven Bailalo - Reggaeton Mix.mp3
+Vaivn : ../music/Reggaeton/Vaivén.mp3
+Bonita : ../music/Reggaeton/Bonita.mp3
+Dale Don Dale : ../music/Reggaeton/Dale Don Dale.mp3
+Llamado de Emergencia : ../music/Reggaeton/Llamado de Emergencia.mp3
+Pasarela : ../music/Reggaeton/Pasarela.mp3
+Nadie Como Tu : ../music/Reggaeton/Nadie Como Tu.mp3
+Pasajero : ../music/Reggaeton/Pasa_je_ro.mp3
+El Perdn with Enrique Iglesias : ../music/Reggaeton/El Perdón (with Enrique Iglesias).mp3
+Bella y Sensual : ../music/Reggaeton/Bella y Sensual.mp3
+Guaya Guaya : ../music/Reggaeton/Guaya Guaya.mp3
+Hasta el Amanecer : ../music/Reggaeton/Hasta el Amanecer.mp3
+Hawi : ../music/Reggaeton/Hawái.mp3
+Felices los 4 : ../music/Reggaeton/Felices los 4.mp3
+La Pregunta : ../music/Reggaeton/La Pregunta.mp3
+Rompe : ../music/Reggaeton/Rompe.mp3
+6 AM Remix : ../music/Reggaeton/6 AM (Remix).mp3
+La Bebe : ../music/Reggaeton/La Bebe.mp3
+La Bebe  Remix : ../music/Reggaeton/La Bebe - Remix.mp3
+Bilame  Remix : ../music/Reggaeton/Báilame - Remix.mp3
+Si T La Ves feat Wisin : ../music/Reggaeton/Si Tú La Ves (feat. Wisin).mp3
+Sexy Movimiento : ../music/Reggaeton/Sexy Movimiento.mp3
+Calma  Remix : ../music/Reggaeton/Calma - Remix.mp3
+La Gozadera feat Marc Anthony : ../music/Reggaeton/La Gozadera (feat. Marc Anthony).mp3
+Lo Que Pas Pas : ../music/Reggaeton/Lo Que Pasó, Pasó.mp3
+Ponle : ../music/Reggaeton/Ponle.mp3
+Ginza : ../music/Reggaeton/Ginza.mp3
+Pepas : ../music/Reggaeton/Pepas.mp3
+4K : ../music/Reggaeton/4K.mp3
+Dile : ../music/Reggaeton/Dile.mp3
+Un Cigarrillo : ../music/Reggaeton/Un Cigarrillo.mp3
+LALA : ../music/Reggaeton/LALA.mp3
+No Lo Trates : ../music/Reggaeton/No Lo Trates.mp3
+Borro Cassette : ../music/Reggaeton/Borro Cassette.mp3
+El Amante : ../music/Reggaeton/El Amante.mp3
+Otra vez feat J Balvin : ../music/Reggaeton/Otra vez (feat. J Balvin).mp3
+Ahora Es : ../music/Reggaeton/Ahora Es.mp3
+QUEMA : ../music/Reggaeton/QUEMA.mp3
+Reggaetn Lento Bailemos : ../music/Reggaeton/Reggaetón Lento (Bailemos).mp3
+Ay Vamos : ../music/Reggaeton/Ay Vamos.mp3
+Pobre Diabla : ../music/Reggaeton/Pobre Diabla.mp3
+Danza Kuduro : ../music/Reggaeton/Danza Kuduro.mp3
+La playa feat Nano William  Ra~ : ../music/Reggaeton/La playa (feat. Nano William) - Radio Edit.mp3
+Suite Castellana Suite Castell~ : ../music/Classical Guitar/Suite Castellana_ Suite Castellana I. Fandanguillo.mp3
+Lute Suite No 2 in C Minor BWV~ : ../music/Classical Guitar/Lute Suite No. 2 in C Minor, BWV 997_ III. Sarabande.mp3
+Farruca : ../music/Classical Guitar/Farruca.mp3
+12 Piezas caracteristicas Op 9~ : ../music/Classical Guitar/12 Piezas caracteristicas, Op. 92_ No. 12, Torre Bermeja (Arranged by John Williams for Guitar).mp3
+Lgrima : ../music/Classical Guitar/Lágrima.mp3
+Spanish Romance : ../music/Classical Guitar/Spanish Romance.mp3
+Dedicatoria : ../music/Classical Guitar/Dedicatoria.mp3
+Suite espagnole Op 47 III Sevi~ : ../music/Classical Guitar/Suite espagnole, Op. 47_ III. Sevilla.mp3
+Suite espaola Op 47 No 5 Astur~ : ../music/Classical Guitar/Suite española, Op. 47_ No. 5, Asturias (Leyenda).mp3
+Mystery of Love : ../music/Classical Guitar/Mystery of Love.mp3
+Bamako  Chamber Music : ../music/Classical Guitar/Bamako - Chamber Music.mp3
+Romance Arr J Williams for Gui~ : ../music/Classical Guitar/Romance (Arr. J. Williams for Guitar & Orchestra).mp3
+Fantasa para un gentilhombre V~ : ../music/Classical Guitar/Fantasía para un gentilhombre_ VI. Canario.mp3
+O Presidente : ../music/Classical Guitar/O Presidente.mp3
+Air on the G String : ../music/Classical Guitar/Air on the G String.mp3
+Cavatina : ../music/Classical Guitar/Cavatina.mp3
+I Allegro giusto : ../music/Classical Guitar/I. Allegro giusto.mp3
+Del Pago From Ronroco : ../music/Classical Guitar/Del Pago (From _Ronroco_).mp3
+Fantasa para un Gentilhombre I~ : ../music/Classical Guitar/Fantasía para un Gentilhombre_ IIa. Españoleta.mp3
+mes dantan : ../music/Classical Guitar/Âmes d'antan.mp3
+Concierto de Aranjuez I Allegr~ : ../music/Classical Guitar/Concierto de Aranjuez_ I. Allegro con spirito.mp3
+Suite Espaola No 1 Op 47 No 5 ~ : ../music/Classical Guitar/Suite Española No. 1, Op. 47_ No. 5, Asturias (Leyenda) [Arranged by John Williams for Guitar].mp3
+La promesse : ../music/Classical Guitar/La promesse.mp3
+Etude in E Minor : ../music/Classical Guitar/Etude in E Minor.mp3
+Cello Suite No 1 in G Major BW~ : ../music/Classical Guitar/Cello Suite No. 1 in G Major, BWV 1007_ I. Prélude (Transcribed for Guitar by John Williams).mp3
+New York  Mad Rush : ../music/Classical Guitar/New York - Mad Rush.mp3
+Un Dia de Noviembre : ../music/Classical Guitar/Un Dia de Noviembre.mp3
+Fantaisie : ../music/Classical Guitar/Fantaisie.mp3
+Ronsard De Platero y Yo : ../music/Classical Guitar/Ronsard (De Platero y Yo).mp3
+La catedral : ../music/Classical Guitar/La catedral.mp3
+Romanza : ../music/Classical Guitar/Romanza.mp3
+Asturias : ../music/Classical Guitar/Asturias.mp3
+Concierto de Aranjuez II Adagi~ : ../music/Classical Guitar/Concierto de Aranjuez_ II. Adagio.mp3
+5 Asturias Leyenda : ../music/Classical Guitar/5. Asturias (Leyenda).mp3
+Prelude No 1 in E Minor Andant~ : ../music/Classical Guitar/Prelude No. 1 in E Minor (Andantino expressivo).mp3
+Walls 2 : ../music/Classical Guitar/Walls 2.mp3
+5 Bagatelles No 1 Allegro : ../music/Classical Guitar/5 Bagatelles_ No. 1, Allegro.mp3
+Sonidos de aquel dia : ../music/Classical Guitar/Sonidos de aquel dia.mp3
+Capricho rabe : ../music/Classical Guitar/Capricho árabe.mp3
+V Asturias : ../music/Classical Guitar/V. Asturias.mp3
+Sonate en r mineur K 1 Allegro : ../music/Classical Guitar/Sonate en ré mineur, K. 1_ Allegro.mp3
+Granada : ../music/Classical Guitar/Granada.mp3
+Pjaros From My Blueberry Night~ : ../music/Classical Guitar/Pájaros (From _My Blueberry Nights_).mp3
+Sonate en la majeur K 208 Adag~ : ../music/Classical Guitar/Sonate en la majeur, K. 208_ Adagio e cantabile.mp3
+Adelita : ../music/Classical Guitar/Adelita.mp3
+Recuerdos de la Alhambra : ../music/Classical Guitar/Recuerdos de la Alhambra.mp3
+Allegro : ../music/Classical Guitar/Allegro.mp3
+Fallen Kingdom : ../music/Meme/Fallen Kingdom.mp3
+Revenge : ../music/Meme/Revenge.mp3
+Haupe : ../music/Jazz/Haupe.mp3
+In the Mood  Live : ../music/Jazz/In the Mood - Live.mp3
+Caravan : ../music/Jazz/Caravan.mp3
+But Not for Me : ../music/Jazz/But Not for Me.mp3
+Misty  Remastered 2020 : ../music/Jazz/Misty - Remastered 2020.mp3
+Horizon : ../music/Jazz/Horizon.mp3
+All The Things You Are : ../music/Jazz/All The Things You Are.mp3
+Days Of Wine And Roses : ../music/Jazz/Days Of Wine And Roses.mp3
+Hermans Habit : ../music/Jazz/Herman’s Habit.mp3
+Prominence : ../music/Jazz/Prominence.mp3
+Jordu : ../music/Jazz/Jordu.mp3
+Evermore : ../music/Jazz/Evermore.mp3
+Summer Days : ../music/Jazz/Summer Days.mp3
+Cornbread : ../music/Jazz/Cornbread.mp3
+When Its Sleepytime Down South : ../music/Jazz/When It's Sleepytime Down South.mp3
+The Girl From Ipanema : ../music/Jazz/The Girl From Ipanema.mp3
+La Vie En Rose : ../music/Jazz/La Vie En Rose.mp3
+Live at Vidro77 : ../music/Jazz/ボディー・アンド・ソウル (Live at Vidro'77).mp3
+My Foolish Heart : ../music/Jazz/My Foolish Heart.mp3
+Blue in Green feat John Coltra~ : ../music/Jazz/Blue in Green (feat. John Coltrane & Bill Evans).mp3
+Hindsight : ../music/Jazz/Hindsight.mp3
+Im Confessin : ../music/Jazz/I'm Confessin'.mp3
+It Could Happen To You : ../music/Jazz/It Could Happen To You.mp3
+Scenery : ../music/Jazz/Scenery.mp3
+Flight of the Foo Birds : ../music/Jazz/Flight of the Foo Birds.mp3
+1999 Digital Remaster : ../music/Jazz/1999 Digital Remaster.mp3
+Doesnt Feel Like Summer : ../music/Jazz/Doesn't Feel Like Summer.mp3
+Traverse du dsert et sa tempte : ../music/Jazz/Traversée du désert et sa tempête.mp3
+Skating In Central Park : ../music/Jazz/Skating In Central Park.mp3
+Clair de Lune : ../music/Jazz/Clair de Lune.mp3
+Moonlight Serenade : ../music/Jazz/Moonlight Serenade.mp3
+Wave : ../music/Jazz/Wave.mp3
+Its Raining Somewhere Else : ../music/Jazz/It's Raining Somewhere Else.mp3
+I Want To Talk About You : ../music/Jazz/I Want To Talk About You.mp3
+Stompin At The Savoy : ../music/Jazz/Stompin' At The Savoy.mp3
+There Will Never Be Another Yo~ : ../music/Jazz/There Will Never Be Another You - Vocal Version.mp3
+Basement Famous : ../music/Jazz/Basement Famous.mp3
+Renaissance : ../music/Jazz/Renaissance.mp3
+Coco  Live : ../music/Jazz/Coco - Live.mp3
+In Your Own Sweet Way : ../music/Jazz/In Your Own Sweet Way.mp3
+Mercy Mercy Mercy : ../music/Jazz/Mercy, Mercy, Mercy.mp3
+Ruby My Dear : ../music/Jazz/Ruby, My Dear.mp3
+Song For My Father : ../music/Jazz/Song For My Father.mp3
+Flamenco Sketches feat John Co~ : ../music/Jazz/Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans).mp3
+Early Summer : ../music/Jazz/Early Summer.mp3
+Willow Weep For Me : ../music/Jazz/Willow Weep For Me.mp3
+I Fall In Love Too Easily : ../music/Jazz/I Fall In Love Too Easily.mp3
+Somebody Stole My Gal : ../music/Jazz/Somebody Stole My Gal.mp3
+Easy Living with Teddy Wilson ~ : ../music/Jazz/Easy Living (with Teddy Wilson & His Orchestra).mp3
+Track B Duete Solo Dancers : ../music/Jazz/Track B- Duete Solo Dancers.mp3
+Rudy Van Gelder Edition : ../music/Jazz/Rudy Van Gelder Edition.mp3
+Godzilla feat Juice WRLD : ../music/Rap/Godzilla (feat. Juice WRLD).mp3

@@ -1,15 +1,14 @@
-Classical Guitar:84
-Rock:0
-J-Pop:0
-Video Game:0
-Pop:0
-Metal:0
-Movie:0
-Reggaeton:0
-Jazz:0
-Blues:0
-Country:0
-Meme:16
-Medival:0
-Rap:0
-Classical:0
+Classical Guitar:8
+Rock:7
+J-Pop:7
+Video Game:7
+Pop:7
+Metal:7
+Movie:7
+Reggaeton:7
+Jazz:7
+Blues:7
+Country:7
+Meme:8
+Rap:7
+Classical:7
