@@ -11,7 +11,7 @@ os.chdir("art-project-main")
 SCREEN = pygame.display.set_mode((1280, 720))
 pygame.display.set_caption("Menu")
 
-BG = pygame.image.load("assets/Background.png")
+BG = pygame.image.load("assets/Background.jpg")
 
 
 def get_font(size): # Returns Press-Start-2P in the desired size
@@ -19,7 +19,8 @@ def get_font(size): # Returns Press-Start-2P in the desired size
 
 
 def Ai():
-    chat_screen(SCREEN)
+    pass
+    #chat_screen(SCREEN)
     """
     while True:
         PLAY_MOUSE_POS = pygame.mouse.get_pos()
@@ -77,28 +78,28 @@ def music():
         pygame.display.update()
     '''
 
-def movie():
+def games():
     while True:
-        MOVIE_MOUSE_POS = pygame.mouse.get_pos()
+        GAME_MOUSE_POS = pygame.mouse.get_pos()
 
         SCREEN.fill("black")
 
-        MOVIE_TEXT = get_font(45).render("This is the Movie screen.", True, "White")
-        MOVIE_RECT = MOVIE_TEXT.get_rect(center=(640, 260))
-        SCREEN.blit(MOVIE_TEXT, MOVIE_RECT)
+        GAME_TEXT = get_font(45).render("This is the Game screen.", True, "White")
+        GAME_RECT = GAME_TEXT.get_rect(center=(640, 260))
+        SCREEN.blit(GAME_TEXT, GAME_RECT)
 
-        MOVIE_BACK = Button(image=None, pos=(640, 460),
-                           text_input="BACK", font=get_font(75), base_color="White", hovering_color="Green")
+        GAME_BACK = Button(image=None, pos=(640, 460),
+                           text_input="BACK", font=get_font(75), base_color="White", hovering_color="Yellow")
 
-        MOVIE_BACK.changeColor(MOVIE_MOUSE_POS)
-        MOVIE_BACK.update(SCREEN)
+        GAME_BACK.changeColor(GAME_MOUSE_POS)
+        GAME_BACK.update(SCREEN)
 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 pygame.quit()
                 sys.exit()
             if event.type == pygame.MOUSEBUTTONDOWN:
-                if MOVIE_BACK.checkForInput(MOVIE_MOUSE_POS):
+                if GAME_BACK.checkForInput(GAME_MOUSE_POS):
                     return
 
         pygame.display.update()
@@ -109,21 +110,21 @@ def main_menu():
 
         MENU_MOUSE_POS = pygame.mouse.get_pos()
 
-        MENU_TEXT = get_font(100).render("Welcome to ART", True, "#b68f40")
+        MENU_TEXT = get_font(100).render("Welcome to ART", True, "White")
         MENU_RECT = MENU_TEXT.get_rect(center=(640, 100))
 
         AI_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(350, 400),
                             text_input="AI", font=get_font(75), base_color="#d7fcd4", hovering_color="White")
         MUSIC_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(900, 400),
                             text_input="MUSIC", font=get_font(75), base_color="#d7fcd4", hovering_color="White")
-        MOVIE_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(350, 600),
-                            text_input="MOVIES", font=get_font(75), base_color="#d7fcd4", hovering_color="White")
+        GAME_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(350, 600),
+                            text_input="GAMES", font=get_font(75), base_color="#d7fcd4", hovering_color="White")
         QUIT_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(900, 600),
                             text_input="QUIT", font=get_font(75), base_color="#d7fcd4", hovering_color="White")
 
         SCREEN.blit(MENU_TEXT, MENU_RECT)
 
-        for button in [AI_BUTTON, MUSIC_BUTTON, MOVIE_BUTTON, QUIT_BUTTON]:
+        for button in [AI_BUTTON, MUSIC_BUTTON, GAME_BUTTON, QUIT_BUTTON]:
             button.changeColor(MENU_MOUSE_POS)
             button.update(SCREEN)
         
@@ -132,12 +133,13 @@ def main_menu():
                 pygame.quit()
                 sys.exit()
             if event.type == pygame.MOUSEBUTTONDOWN:
+
                 if AI_BUTTON.checkForInput(MENU_MOUSE_POS):
                     Ai()
                 if MUSIC_BUTTON.checkForInput(MENU_MOUSE_POS):
                     music()
-                if MOVIE_BUTTON.checkForInput(MENU_MOUSE_POS):
-                    movie()
+                if GAME_BUTTON.checkForInput(MENU_MOUSE_POS):
+                    games()
                 if QUIT_BUTTON.checkForInput(MENU_MOUSE_POS):
                     pygame.quit()
                     sys.exit()
@@ -153,4 +155,4 @@ def draw():
 
 
 main_menu()
-#draw()
+#draw
