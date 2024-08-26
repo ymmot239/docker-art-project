@@ -3,7 +3,7 @@ import time
 import pygame, sys, os
 from button import Button
 from music_player import music_player
-#from chat_show import chat_screen
+from chat_show import chat_screen
 
 pygame.init()
 os.chdir("art-project-main")
@@ -20,7 +20,7 @@ def get_font(size): # Returns Press-Start-2P in the desired size
 
 def Ai():
     pass
-    #chat_screen(SCREEN)
+    chat_screen(SCREEN)
     """
     while True:
         PLAY_MOUSE_POS = pygame.mouse.get_pos()
@@ -88,11 +88,17 @@ def games():
         GAME_RECT = GAME_TEXT.get_rect(center=(640, 260))
         SCREEN.blit(GAME_TEXT, GAME_RECT)
 
-        GAME_BACK = Button(image=None, pos=(640, 460),
+        GAME_RUN = Button(image=None, pos=(640, 360),
+                           text_input="Emulation Station", font=get_font(75), base_color="White", hovering_color="Yellow")
+
+        GAME_BACK = Button(image=None, pos=(640, 550),
                            text_input="BACK", font=get_font(75), base_color="White", hovering_color="Yellow")
 
         GAME_BACK.changeColor(GAME_MOUSE_POS)
         GAME_BACK.update(SCREEN)
+
+        GAME_RUN.changeColor(GAME_MOUSE_POS)
+        GAME_RUN.update(SCREEN)
 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -101,6 +107,8 @@ def games():
             if event.type == pygame.MOUSEBUTTONDOWN:
                 if GAME_BACK.checkForInput(GAME_MOUSE_POS):
                     return
+                if GAME_RUN.checkForInput(GAME_MOUSE_POS):
+                    os.system('emulationstation')	    
 
         pygame.display.update()
 
@@ -114,7 +122,7 @@ def main_menu():
         MENU_RECT = MENU_TEXT.get_rect(center=(640, 100))
 
         AI_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(350, 400),
-                            text_input="AI", font=get_font(75), base_color="#d7fcd4", hovering_color="White")
+                            text_input="CHAT", font=get_font(75), base_color="#d7fcd4", hovering_color="White")
         MUSIC_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(900, 400),
                             text_input="MUSIC", font=get_font(75), base_color="#d7fcd4", hovering_color="White")
         GAME_BUTTON = Button(image=pygame.image.load("assets/Short Rect.png"), pos=(350, 600),
